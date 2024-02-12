@@ -37,8 +37,8 @@ Run the Application
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `topic` | `string` | **Required**. Your API key |
- ' n '    | 'integer' | **Required**. Your API key
+| `topic` | `string` | **Required**. provide any topic name |
+ ' n '    | 'integer' | **Required**. provide the count between 1-10
 
  sample request 
 
@@ -77,7 +77,7 @@ Run the Application
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `query`      | `string` | **Required**. Id of item to fetch |
+| `query`      | `string` | **Required**. povide topic name |
 
 
 sample request
